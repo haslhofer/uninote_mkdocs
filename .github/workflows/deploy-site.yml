@@ -34,7 +34,6 @@ jobs:
         run: |
           poetry install
           echo "gerald"
-          poetry env use /opt/hostedtoolcache/Python/3.8.15/x64
           
       - name: Build docs with MkDocs
         run: poetry run mkdocs build --config-file docs/mkdocs.yml
