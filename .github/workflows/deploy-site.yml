@@ -36,7 +36,7 @@ jobs:
           echo "gerald"
           
       - name: Build docs with MkDocs
-        run: poetry run mkdocs build --config-file docs/mkdocs.yml
+        run: poetry run mkdocs build --config-file mkdocs.yml
           
       - name: Build And Deploy
         id: builddeploy
