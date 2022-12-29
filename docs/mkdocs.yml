@@ -23,6 +23,9 @@ use_directory_urls: true
 
 theme: readthedocs
 
+plugins:
+  - tags
+
 # Main navigation menu, edit to create your sub menu; retain main menu.
 nav:
   - Home:             README.md
