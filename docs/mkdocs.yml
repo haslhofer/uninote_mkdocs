@@ -24,7 +24,7 @@ use_directory_urls: true
 theme: readthedocs
 
 plugins:
-  - tags
+  - tags:
 
 # Main navigation menu, edit to create your sub menu; retain main menu.
 nav:
