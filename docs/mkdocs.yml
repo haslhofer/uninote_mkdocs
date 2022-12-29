@@ -21,6 +21,8 @@ copyright: 'Copyright &copy; 2021 Equinor'
 # Configuration, do not edit
 use_directory_urls: true
 
+theme: readthedocs
+
 # Main navigation menu, edit to create your sub menu; retain main menu.
 nav:
   - Home:             README.md
