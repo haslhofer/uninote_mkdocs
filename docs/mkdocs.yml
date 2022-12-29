@@ -1,13 +1,13 @@
 # Project information, do not edit
-site_name:        'Equinor'
-site_description: 'Azure static web apps template'
-site_author:      'Equinor'
-site_url:         'https://ambitious-rock-029e94603.1.azurestaticapps.net/equinor-example/'
+site_name:        'Haslhofer'
+site_description: 'Haslhofer Notes'
+site_author:      'haslhofer'
+site_url:         'http://icy-rock-07bbf031e.2.azurestaticapps.net/equinor-example/'
 
 
 # Repository, edit to point to appropriate repo
-repo_name: 'equinor/az-static-web-app-docs-template'
-repo_url:  'https://github.com/equinor/az-static-web-app-docs-template'
+repo_name: 'haslhofer/uninote_mkdocs'
+repo_url:  'https://github.com/haslhofer/uninote_mkdocs'
 edit_uri:  'edit/main/docs/source/equinor-example'
 
 
@@ -16,7 +16,7 @@ docs_dir: 'source/equinor-example'
 site_dir: 'build/equinor-example'
 
 # Copyright, do not edit
-copyright: 'Copyright &copy; 2021 Equinor'
+copyright: 'Copyright Haslhofer'
 
 # Configuration, do not edit
 use_directory_urls: true
