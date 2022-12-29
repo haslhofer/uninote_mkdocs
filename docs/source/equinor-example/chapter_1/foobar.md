@@ -1,3 +1,10 @@
+---
+title: Welcome
+tags:
+ - testing
+ - unimportant
+---
+
 # Foobar
 
 Foobar is a Python library for dealing with word pluralization.
