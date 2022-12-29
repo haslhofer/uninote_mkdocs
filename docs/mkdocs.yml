@@ -25,6 +25,7 @@ theme: readthedocs
 
 plugins:
   - tags:
+      tags_file: tags.md
 
 # Main navigation menu, edit to create your sub menu; retain main menu.
 nav:
