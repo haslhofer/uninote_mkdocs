@@ -33,7 +33,7 @@ jobs:
       - name: Install Poetry
         run: |
           poetry install
-          pip install mkdocs-plugins-tags
+          pip install mkdocs-plugin-tags
           echo "gerald"
           
       - name: Build docs with MkDocs
