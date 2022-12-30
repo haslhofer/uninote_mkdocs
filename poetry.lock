@@ -735,6 +735,14 @@ optional = false
 python-versions = "*"
 
 [[package]]
+name = "mkdocs-plugin-tags"
+version = "1.0.2"
+description = "tags."
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
 name = "tomli"
 version = "2.0.1"
 description = "A lil' TOML parser"
