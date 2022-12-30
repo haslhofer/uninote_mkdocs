@@ -737,6 +737,7 @@ python-versions = "*"
 [[package]]
 name = "mkdocs-plugin-tags"
 version = "1.0.2"
+optional = false
 
 [[package]]
 name = "tomli"
