@@ -4,10 +4,9 @@ version = "0.1.0"
 description = ""
 authors = ["Dr. Gerald Haslhofer <haslhofer@outlook.com>"]
 readme = "README.md"
-packages = [{include = "virtual_env"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.9"
 mkdocs-plugin-tags = "^1.0.2"
 jinja2 = "3.0.0"
 

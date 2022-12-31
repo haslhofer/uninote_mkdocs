@@ -2,6 +2,7 @@
 tags:
   - Gerald
   - Haslhofer
+  - Artificial intelligence
 ---
 
 # Welcome to MkDocs
