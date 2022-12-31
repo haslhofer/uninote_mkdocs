@@ -4,7 +4,6 @@ version = "0.1.0"
 description = ""
 authors = ["Dr. Gerald Haslhofer <haslhofer@outlook.com>"]
 readme = "README.md"
-packages = [{include = "virtual_env"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
