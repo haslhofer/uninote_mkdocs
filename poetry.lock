@@ -277,7 +277,7 @@ python-versions = ">=3.7"
 [[package]]
 name = "mccabe"
 version = "0.7.0"
-description = "McCabe checker, plugin for flake8"
+description = "McCabe checker, plugin for flake8"f
 category = "dev"
 optional = false
 python-versions = ">=3.6"
@@ -733,11 +733,6 @@ description = "ANSII Color formatting for output in terminal."
 category = "main"
 optional = false
 python-versions = "*"
-
-[[package]]
-name = "mkdocs-plugin-tags"
-version = "1.0.2"
-optional = false
 
 [[package]]
 name = "tomli"
