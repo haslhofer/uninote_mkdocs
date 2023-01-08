@@ -22,3 +22,6 @@ https://aka.ms/AAb9ysg
 
 [https://www.arenaev.com/google_announces_new_highdefinition_maps_android_auto_redesign_rolling_out_-news-1260.php](https://www.arenaev.com/google_announces_new_highdefinition_maps_android_auto_redesign_rolling_out_-news-1260.php)  
 [https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+[https://www.yahoo.com/lifestyle/lucky-girl-syndrome-202442050.html](https://www.yahoo.com/lifestyle/lucky-girl-syndrome-202442050.html)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
