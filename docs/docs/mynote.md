@@ -13,3 +13,6 @@ https://aka.ms/AAb9ysg
 
 [https://www.youtube.com/watch?v=OBOtrPoTqj8](https://www.youtube.com/watch?v=OBOtrPoTqj8)  
 [https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+[https://techhq.com/2023/01/helping-robots-learn-gpt3-tool-descriptions-add-value/](https://techhq.com/2023/01/helping-robots-learn-gpt3-tool-descriptions-add-value/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
