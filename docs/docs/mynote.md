@@ -19,3 +19,6 @@ https://aka.ms/AAb9ysg
 
 [https://www.marketwatch.com/story/redfin-ceo-predicts-terrible-consolidation-in-the-real-estate-sector-but-says-it-will-ultimately-be-good-for-the-industry-11673020315](https://www.marketwatch.com/story/redfin-ceo-predicts-terrible-consolidation-in-the-real-estate-sector-but-says-it-will-ultimately-be-good-for-the-industry-11673020315)  
 [https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+[https://www.arenaev.com/google_announces_new_highdefinition_maps_android_auto_redesign_rolling_out_-news-1260.php](https://www.arenaev.com/google_announces_new_highdefinition_maps_android_auto_redesign_rolling_out_-news-1260.php)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
