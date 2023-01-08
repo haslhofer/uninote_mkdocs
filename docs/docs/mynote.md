@@ -25,3 +25,6 @@ https://aka.ms/AAb9ysg
 
 [https://www.yahoo.com/lifestyle/lucky-girl-syndrome-202442050.html](https://www.yahoo.com/lifestyle/lucky-girl-syndrome-202442050.html)  
 [https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+[https://www.forbes.com/sites/barrycollins/2023/01/05/ive-seen-the-future-of-ar-glasses-at-ces-2023and-its-amazing/](https://www.forbes.com/sites/barrycollins/2023/01/05/ive-seen-the-future-of-ar-glasses-at-ces-2023and-its-amazing/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
