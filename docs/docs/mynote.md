@@ -1,18 +1,6 @@
 ---
 tags:
-  - Gerald
-  - Haslhofer
-  - Reinforcement Learning
----
-
-# Welcome to MkDocs from Gerald
-
-
----
-date: "2023-1-4"
-title: "Gerald's link list"
-tags: 
-  - Notes
+  - Links
 ---
 
 # Links received
