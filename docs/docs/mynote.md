@@ -22,3 +22,6 @@ https://aka.ms/AAb9ysg
 
 [https://www.androidpolice.com/smartphone-camera-megapixel-explainer/](https://www.androidpolice.com/smartphone-camera-megapixel-explainer/)  
 [https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+[https://www.youtube.com/watch?v=OBOtrPoTqj8](https://www.youtube.com/watch?v=OBOtrPoTqj8)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
