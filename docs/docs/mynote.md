@@ -31,3 +31,6 @@ https://aka.ms/AAb9ysg
 
 [https://thehackernews.com/2023/01/dridex-malware-now-attacking-macos.html?m=1](https://thehackernews.com/2023/01/dridex-malware-now-attacking-macos.html?m=1)  
 [https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+[https://www.cnet.com/tech/mobile/how-to-add-your-drivers-license-to-your-iphone-and-apple-wallet/](https://www.cnet.com/tech/mobile/how-to-add-your-drivers-license-to-your-iphone-and-apple-wallet/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
