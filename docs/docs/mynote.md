@@ -28,3 +28,6 @@ https://aka.ms/AAb9ysg
 
 [https://www.forbes.com/sites/barrycollins/2023/01/05/ive-seen-the-future-of-ar-glasses-at-ces-2023and-its-amazing/](https://www.forbes.com/sites/barrycollins/2023/01/05/ive-seen-the-future-of-ar-glasses-at-ces-2023and-its-amazing/)  
 [https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+[https://thehackernews.com/2023/01/dridex-malware-now-attacking-macos.html?m=1](https://thehackernews.com/2023/01/dridex-malware-now-attacking-macos.html?m=1)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
