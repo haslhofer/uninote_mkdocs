@@ -4,7 +4,7 @@ plugins:
   - tags
   - search
   
- nav:
-    - Welcome: index.md
-    - Links: mynote.md
-    - Tags: tags.md
+nav:
+  - Welcome: index.md
+  - Links: mynote.md
+  - Tags: tags.md
