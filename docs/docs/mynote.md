@@ -34,3 +34,6 @@ https://aka.ms/AAb9ysg
 
 [https://www.cnet.com/tech/mobile/how-to-add-your-drivers-license-to-your-iphone-and-apple-wallet/](https://www.cnet.com/tech/mobile/how-to-add-your-drivers-license-to-your-iphone-and-apple-wallet/)  
 [https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+[https://www.nbcnews.com/tech/internet/chatgpt-ai-experiment-mental-health-tech-app-koko-rcna65110](https://www.nbcnews.com/tech/internet/chatgpt-ai-experiment-mental-health-tech-app-koko-rcna65110)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
