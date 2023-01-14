@@ -43,3 +43,6 @@ https://aka.ms/AAb9ysg
 
 [https://www.axios.com/2023/01/13/ransomware-gangs-cut-out-encryption](https://www.axios.com/2023/01/13/ransomware-gangs-cut-out-encryption)  
 [https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+[https://slate.com/technology/2023/01/chat-gpt-openai-jasper-hugging-face-plagiarism-big-technology.html](https://slate.com/technology/2023/01/chat-gpt-openai-jasper-hugging-face-plagiarism-big-technology.html)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
