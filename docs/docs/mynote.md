@@ -37,3 +37,6 @@ https://aka.ms/AAb9ysg
 
 [https://www.nbcnews.com/tech/internet/chatgpt-ai-experiment-mental-health-tech-app-koko-rcna65110](https://www.nbcnews.com/tech/internet/chatgpt-ai-experiment-mental-health-tech-app-koko-rcna65110)  
 [https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+[https://news.yahoo.com/top-gun-maverick-director-says-114612244.html](https://news.yahoo.com/top-gun-maverick-director-says-114612244.html)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
