@@ -40,3 +40,6 @@ https://aka.ms/AAb9ysg
 
 [https://news.yahoo.com/top-gun-maverick-director-says-114612244.html](https://news.yahoo.com/top-gun-maverick-director-says-114612244.html)  
 [https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+[https://www.axios.com/2023/01/13/ransomware-gangs-cut-out-encryption](https://www.axios.com/2023/01/13/ransomware-gangs-cut-out-encryption)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
