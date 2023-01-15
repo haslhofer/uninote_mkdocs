@@ -1,9 +1,3 @@
----
-tags:
-  - Links
----
-
-# Links received
 
 https://www.geekwire.com/2023/ces-2023-a-list-of-washington-state-companies-showing-off-their-latest-tech-gadgets-and-services/
 https://aka.ms/AAb9ysg
