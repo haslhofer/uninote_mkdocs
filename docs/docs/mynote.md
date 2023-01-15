@@ -1,3 +1,12 @@
+ChatGPT used by mental health tech app in AI experiment with users
+https://www.nbcnews.com/tech/internet/chatgpt-ai-experiment-mental-health-tech-app-koko-rcna65110
+
+Get Outlook for Android<https://aka.ms/AAb9ysg>
+
+[https://www.nbcnews.com/tech/internet/chatgpt-ai-experiment-mental-health-tech-app-koko-rcna65110](https://www.nbcnews.com/tech/internet/chatgpt-ai-experiment-mental-health-tech-app-koko-rcna65110)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
 Apple Card responsible for more than $1 billion in losses - 9to5Mac
 https://9to5mac.com/2023/01/13/apple-card-billion-dollars-plus-loss/
 
