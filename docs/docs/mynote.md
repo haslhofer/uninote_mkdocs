@@ -1,3 +1,10 @@
+Passwordless deployments to the cloud | The GitHub Blog
+https://github.blog/2023-01-11-passwordless-deployments-to-the-cloud/
+
+
+[https://github.blog/2023-01-11-passwordless-deployments-to-the-cloud/](https://github.blog/2023-01-11-passwordless-deployments-to-the-cloud/)  
+
+
 ChatGPT used by mental health tech app in AI experiment with users
 https://www.nbcnews.com/tech/internet/chatgpt-ai-experiment-mental-health-tech-app-koko-rcna65110
 
