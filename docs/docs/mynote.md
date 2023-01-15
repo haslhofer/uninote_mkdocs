@@ -58,3 +58,10 @@ Get Outlook for Android<https://aka.ms/AAb9ysg>
 [https://9to5mac.com/2023/01/13/apple-card-billion-dollars-plus-loss/](https://9to5mac.com/2023/01/13/apple-card-billion-dollars-plus-loss/)  
 [https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
 
+
+‘Avatar’: The Way of the Restroom
+https://www.nytimes.com/2023/01/13/style/avatar-bathroom-break.html
+
+
+[https://www.nytimes.com/2023/01/13/style/avatar-bathroom-break.html](https://www.nytimes.com/2023/01/13/style/avatar-bathroom-break.html)  
+
