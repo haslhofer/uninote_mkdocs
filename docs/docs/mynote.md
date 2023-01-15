@@ -49,3 +49,12 @@ https://aka.ms/AAb9ysg
 
 [https://slate.com/technology/2023/01/chat-gpt-openai-jasper-hugging-face-plagiarism-big-technology.html](https://slate.com/technology/2023/01/chat-gpt-openai-jasper-hugging-face-plagiarism-big-technology.html)  
 [https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+Apple Card responsible for more than $1 billion in losses - 9to5Mac
+https://9to5mac.com/2023/01/13/apple-card-billion-dollars-plus-loss/
+
+Get Outlook for Android<https://aka.ms/AAb9ysg>
+
+[https://9to5mac.com/2023/01/13/apple-card-billion-dollars-plus-loss/](https://9to5mac.com/2023/01/13/apple-card-billion-dollars-plus-loss/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
