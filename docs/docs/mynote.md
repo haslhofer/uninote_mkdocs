@@ -1,3 +1,16 @@
+Vector database - Milvus
+https://milvus.io/
+
+
+[https://milvus.io/](https://milvus.io/)  
+
+GitHub - milvus-io/milvus-sdk-csharp
+https://github.com/milvus-io/milvus-sdk-csharp
+
+
+[https://github.com/milvus-io/milvus-sdk-csharp](https://github.com/milvus-io/milvus-sdk-csharp)  
+
+
 A peek into the future as Sam Altman sees it • TechCrunch
 https://techcrunch.com/2023/01/16/a-peek-into-future-as-sam-altman-sees-it/
 
