@@ -1,3 +1,14 @@
+[2301.00704] Muse: Text-To-Image Generation via Masked Generative Transformers
+[2301.00704] Muse: Text-To-Image Generation via Masked Generative Transformers
+https://arxiv.org/abs/2301.00704
+
+
+Note to self – Embeddings - OpenAI API
+Embeddings - OpenAI API
+https://beta.openai.com/docs/guides/embeddings/limitations-risks
+
+
+
 Vector database - Milvus
 https://milvus.io/
 
