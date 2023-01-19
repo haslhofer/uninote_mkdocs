@@ -1,3 +1,16 @@
+Image Similarity with Hugging Face Datasets and Transformers
+https://huggingface.co/blog/image-similarity
+
+
+[https://huggingface.co/blog/image-similarity](https://huggingface.co/blog/image-similarity)  
+
+A New Artificial Intelligence (AI) Research Focuses on The Personalization of Generative Art by Teaching a Model Many New Concepts at Once and Combining Them on The Fly - MarkTechPost
+https://www.marktechpost.com/2023/01/16/a-new-artificial-intelligence-ai-research-focuses-on-the-personalization-of-generative-art-by-teaching-a-model-many-new-concepts-at-once-and-combining-them-on-the-fly/
+
+
+[https://www.marktechpost.com/2023/01/16/a-new-artificial-intelligence-ai-research-focuses-on-the-personalization-of-generative-art-by-teaching-a-model-many-new-concepts-at-once-and-combining-them-on-the-fly/](https://www.marktechpost.com/2023/01/16/a-new-artificial-intelligence-ai-research-focuses-on-the-personalization-of-generative-art-by-teaching-a-model-many-new-concepts-at-once-and-combining-them-on-the-fly/)  
+
+
 Google Research, 2022 & Beyond: Language, Vision and Generative Models – Google AI Blog
 https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html?m=1
 
