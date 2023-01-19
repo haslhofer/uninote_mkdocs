@@ -1,3 +1,10 @@
+Google Research, 2022 & Beyond: Language, Vision and Generative Models – Google AI Blog
+https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html?m=1
+
+
+[https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html?m=1](https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html?m=1)  
+
+
 [2301.00704] Muse: Text-To-Image Generation via Masked Generative Transformers
 [2301.00704] Muse: Text-To-Image Generation via Masked Generative Transformers
 https://arxiv.org/abs/2301.00704
