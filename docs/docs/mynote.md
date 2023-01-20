@@ -1,6 +1,7 @@
 Who Owns the Generative AI Platform? | Andreessen Horowitz
 https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/
 
+---
 
 [https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/](https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/)  
 
