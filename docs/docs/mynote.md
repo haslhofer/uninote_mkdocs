@@ -1,3 +1,10 @@
+Meet Claude: Anthropic’s Rival to ChatGPT | Blog | Scale AI
+https://scale.com/blog/chatgpt-vs-claude#What%20is%20%E2%80%9CConstitutional%20AI%E2%80%9D?
+
+
+[https://scale.com/blog/chatgpt-vs-claude#What%20is%20%E2%80%9CConstitutional%20AI%E2%80%9D](https://scale.com/blog/chatgpt-vs-claude#What%20is%20%E2%80%9CConstitutional%20AI%E2%80%9D)  
+
+
 Who Owns the Generative AI Platform? | Andreessen Horowitz
 https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/
 
