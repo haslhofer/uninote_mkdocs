@@ -1,3 +1,10 @@
+Eye tracking
+https://nvda.ws/3ZyWpft
+
+
+[https://nvda.ws/3ZyWpft](https://nvda.ws/3ZyWpft)  
+
+
 Meet Claude: Anthropic’s Rival to ChatGPT | Blog | Scale AI
 https://scale.com/blog/chatgpt-vs-claude#What%20is%20%E2%80%9CConstitutional%20AI%E2%80%9D?
 
