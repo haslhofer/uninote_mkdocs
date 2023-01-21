@@ -1,3 +1,10 @@
+OneFormer / MaskFormer
+Image segmentation
+https://huggingface.co/blog/mask2former
+
+[https://huggingface.co/blog/mask2former](https://huggingface.co/blog/mask2former)  
+
+
 Eye tracking
 https://nvda.ws/3ZyWpft
 
