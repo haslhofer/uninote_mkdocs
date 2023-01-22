@@ -1,3 +1,10 @@
+4 World-Class Ski Resorts That Don’t Cost a Fortune - WSJ
+https://www.wsj.com/articles/affordable-ski-resorts-11674060010
+
+
+[https://www.wsj.com/articles/affordable-ski-resorts-11674060010](https://www.wsj.com/articles/affordable-ski-resorts-11674060010)  
+
+
 OMMO DATASET
 https://ommo.luchongshan.com/
 
