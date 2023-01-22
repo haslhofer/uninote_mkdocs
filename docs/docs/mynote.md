@@ -1,3 +1,10 @@
+
+https://medium.com/@diegobonila/top-deep-learning-papers-of-2022-a4826e0aac4
+
+
+[https://medium.com/@diegobonila/top-deep-learning-papers-of-2022-a4826e0aac4](https://medium.com/@diegobonila/top-deep-learning-papers-of-2022-a4826e0aac4)  
+
+
 OneFormer / MaskFormer
 Image segmentation
 https://huggingface.co/blog/mask2former
