@@ -1,3 +1,10 @@
+Google Brain and Tel Aviv University Researchers Proposed A Text-To-Image Model Guided By Sketches - MarkTechPost
+https://www.marktechpost.com/2023/01/19/google-brain-and-tel-aviv-university-researchers-proposed-a-text-to-image-model-guided-by-sketches/
+
+
+[https://www.marktechpost.com/2023/01/19/google-brain-and-tel-aviv-university-researchers-proposed-a-text-to-image-model-guided-by-sketches/](https://www.marktechpost.com/2023/01/19/google-brain-and-tel-aviv-university-researchers-proposed-a-text-to-image-model-guided-by-sketches/)  
+
+
 4 World-Class Ski Resorts That Don’t Cost a Fortune - WSJ
 https://www.wsj.com/articles/affordable-ski-resorts-11674060010
 
