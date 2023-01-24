@@ -1,3 +1,11 @@
+ChatGPT passed an MBA exam and one professor is sounding the alarm | Fortune
+
+[https://fortune.com/2023/01/21/chatgpt-passed-wharton-mba-exam-one-professor-is-sounding-alarm-artificial-intelligence/](https://fortune.com/2023/01/21/chatgpt-passed-wharton-mba-exam-one-professor-is-sounding-alarm-artificial-intelligence/)  
+
+
+---
+
+
 Laid-off Silicon Valley workers are panic-selling their start-up shares as valuations plummet — here are 3 top tech stocks for 2023 that actually make money
 
 [https://finance.yahoo.com/news/laid-off-silicon-valley-workers-150000073.html](https://finance.yahoo.com/news/laid-off-silicon-valley-workers-150000073.html)  
