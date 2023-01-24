@@ -1,3 +1,10 @@
+A New Method to Evaluate the Performance of Models Trained with Synthetic Data When They are Applied to Real-World Data - MarkTechPost
+https://www.marktechpost.com/2023/01/21/a-new-method-to-evaluate-the-performance-of-models-trained-with-synthetic-data-when-they-are-applied-to-real-world-data/
+
+
+[https://www.marktechpost.com/2023/01/21/a-new-method-to-evaluate-the-performance-of-models-trained-with-synthetic-data-when-they-are-applied-to-real-world-data/](https://www.marktechpost.com/2023/01/21/a-new-method-to-evaluate-the-performance-of-models-trained-with-synthetic-data-when-they-are-applied-to-real-world-data/)  
+
+
 Warren Buffett Says the Ultimate Test of a Life Well-Lived Boils Down to 1 Simple Principle | Inc.com
 https://www.inc.com/marcel-schwantes/warren-buffett-says-ultimate-test-of-a-life-well-lived-boils-down-to-1-simple-principle.html
 
