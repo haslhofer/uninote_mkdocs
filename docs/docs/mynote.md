@@ -1,3 +1,11 @@
+Laid-off Silicon Valley workers are panic-selling their start-up shares as valuations plummet — here are 3 top tech stocks for 2023 that actually make money
+
+[https://finance.yahoo.com/news/laid-off-silicon-valley-workers-150000073.html](https://finance.yahoo.com/news/laid-off-silicon-valley-workers-150000073.html)  
+
+
+---
+
+
 A New Method to Evaluate the Performance of Models Trained with Synthetic Data When They are Applied to Real-World Data - MarkTechPost
 https://www.marktechpost.com/2023/01/21/a-new-method-to-evaluate-the-performance-of-models-trained-with-synthetic-data-when-they-are-applied-to-real-world-data/
 
