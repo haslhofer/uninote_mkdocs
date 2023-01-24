@@ -1,3 +1,10 @@
+Warren Buffett Says the Ultimate Test of a Life Well-Lived Boils Down to 1 Simple Principle | Inc.com
+https://www.inc.com/marcel-schwantes/warren-buffett-says-ultimate-test-of-a-life-well-lived-boils-down-to-1-simple-principle.html
+
+
+[https://www.inc.com/marcel-schwantes/warren-buffett-says-ultimate-test-of-a-life-well-lived-boils-down-to-1-simple-principle.html](https://www.inc.com/marcel-schwantes/warren-buffett-says-ultimate-test-of-a-life-well-lived-boils-down-to-1-simple-principle.html)  
+
+
 Google Brain and Tel Aviv University Researchers Proposed A Text-To-Image Model Guided By Sketches - MarkTechPost
 https://www.marktechpost.com/2023/01/19/google-brain-and-tel-aviv-university-researchers-proposed-a-text-to-image-model-guided-by-sketches/
 
