@@ -1,3 +1,11 @@
+Note to self – Google Research, 2022 & beyond: Language, vision and generative models – Google AI Blog
+Google Research, 2022 & beyond: Language, vision and generative models – Google AI Blog
+https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html
+
+
+---
+
+
 Greedy decoding vs. choosing the most consistent answer
 2203.11171.pdf (arxiv.org)<>
 [https://arxiv.org/pdf/2203.11171.pdf](https://arxiv.org/pdf/2203.11171.pdf)  
