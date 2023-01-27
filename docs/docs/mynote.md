@@ -1,3 +1,60 @@
+Researchers at the University of Maryland Propose Cold Diffusion: A Diffusion Model with Deterministic Perturbations - MarkTechPost
+
+[https://www.marktechpost.com/2023/01/23/researchers-at-the-university-of-maryland-propose-cold-diffusion-a-diffusion-model-with-deterministic-perturbations/](https://www.marktechpost.com/2023/01/23/researchers-at-the-university-of-maryland-propose-cold-diffusion-a-diffusion-model-with-deterministic-perturbations/)  
+
+
+---
+
+Deepmind Proposes LASER-NV: A Conditional Generative Model of Neural Radiance Fields Capable of Efficient Inference of Large and Complex Scenes Under Partial Observability Conditions - MarkTechPost
+
+[https://www.marktechpost.com/2023/01/24/deepmind-proposes-laser-nv-a-conditional-generative-model-of-neural-radiance-fields-capable-of-efficient-inference-of-large-and-complex-scenes-under-partial-observability-conditions/](https://www.marktechpost.com/2023/01/24/deepmind-proposes-laser-nv-a-conditional-generative-model-of-neural-radiance-fields-capable-of-efficient-inference-of-large-and-complex-scenes-under-partial-observability-conditions/)  
+
+
+---
+
+CS50: Introduction to Computer Science | Harvard University
+
+[https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)  
+
+
+---
+
+
+https://www.linkedin.com/posts/miguelgfierro_ai-machinelearning-datascience-ugcPost-7024245080869810176-uiD6?utm_source=share&utm_medium=member_android
+[https://www.linkedin.com/posts/miguelgfierro_ai-machinelearning-datascience-ugcPost-7024245080869810176-uiD6?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/miguelgfierro_ai-machinelearning-datascience-ugcPost-7024245080869810176-uiD6?utm_source=share&amp;utm_medium=member_android)  
+
+
+---
+
+
+
+[https://www.futurepedia.io](https://www.futurepedia.io)  
+
+
+---
+
+Use ChatGPT to "talk" to your website - DEV Community 👩‍💻👨‍💻
+
+[https://dev.to/polterguy/use-chatgpt-to-talk-to-your-website-52nb](https://dev.to/polterguy/use-chatgpt-to-talk-to-your-website-52nb)  
+
+
+---
+
+GitHub - chuhaojin/Text2Poster-ICASSP-22: The souce code of the ICASSP-2022 paper "Text2Poster: Laying Out Stylized Texts on Retrieved Images"
+
+[https://github.com/chuhaojin/Text2Poster-ICASSP-22](https://github.com/chuhaojin/Text2Poster-ICASSP-22)  
+
+
+---
+
+Mid journey blender
+
+[https://www.youtube.com/watch?v=iubhFsKZBP0](https://www.youtube.com/watch?v=iubhFsKZBP0)  
+
+
+---
+
+
 ChatGPT passed an MBA exam and one professor is sounding the alarm | Fortune
 
 [https://fortune.com/2023/01/21/chatgpt-passed-wharton-mba-exam-one-professor-is-sounding-alarm-artificial-intelligence/](https://fortune.com/2023/01/21/chatgpt-passed-wharton-mba-exam-one-professor-is-sounding-alarm-artificial-intelligence/)  
