@@ -1,3 +1,11 @@
+Greedy decoding vs. choosing the most consistent answer
+2203.11171.pdf (arxiv.org)<>
+[https://arxiv.org/pdf/2203.11171.pdf](https://arxiv.org/pdf/2203.11171.pdf)  
+
+
+---
+
+
 Researchers at the University of Maryland Propose Cold Diffusion: A Diffusion Model with Deterministic Perturbations - MarkTechPost
 
 [https://www.marktechpost.com/2023/01/23/researchers-at-the-university-of-maryland-propose-cold-diffusion-a-diffusion-model-with-deterministic-perturbations/](https://www.marktechpost.com/2023/01/23/researchers-at-the-university-of-maryland-propose-cold-diffusion-a-diffusion-model-with-deterministic-perturbations/)  
