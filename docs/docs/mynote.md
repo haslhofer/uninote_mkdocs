@@ -1,3 +1,32 @@
+
+https://www.madrona.com/foundation-models/?utm_source=Foundation+Model+Share+Link&utm_medium=Social&utm_campaign=Foundation+model+update+Jan+2023
+[https://www.madrona.com/foundation-models/?utm_source=Foundation+Model+Share+Link&amp;utm_medium=Social&amp;utm_campaign=Foundation+model+update+Jan+2023](https://www.madrona.com/foundation-models/?utm_source=Foundation+Model+Share+Link&amp;utm_medium=Social&amp;utm_campaign=Foundation+model+update+Jan+2023)  
+
+
+---
+
+
+https://www.linkedin.com/posts/mattmaclaurin_if-i-was-preparing-for-a-new-chapter-in-tech-activity-7023724176410624000-vgNk?utm_source=share&utm_medium=member_android
+[https://www.linkedin.com/posts/mattmaclaurin_if-i-was-preparing-for-a-new-chapter-in-tech-activity-7023724176410624000-vgNk?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/mattmaclaurin_if-i-was-preparing-for-a-new-chapter-in-tech-activity-7023724176410624000-vgNk?utm_source=share&amp;utm_medium=member_android)  
+
+
+---
+
+Vision2vec
+
+[https://bit.ly/3XBob9r](https://bit.ly/3XBob9r)  
+
+
+---
+
+Data2vec
+
+[https://bit.ly/3XBob9r](https://bit.ly/3XBob9r)  
+
+
+---
+
+
 Note to self – Google Research, 2022 & beyond: Language, vision and generative models – Google AI Blog
 Google Research, 2022 & beyond: Language, vision and generative models – Google AI Blog
 https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html
