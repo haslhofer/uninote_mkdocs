@@ -1,3 +1,11 @@
+What are Transformers? Concept and Applications Explained - MarkTechPost
+
+[https://www.marktechpost.com/2023/01/24/what-are-transformers-concept-and-applications-explained/](https://www.marktechpost.com/2023/01/24/what-are-transformers-concept-and-applications-explained/)  
+
+
+---
+
+
 
 https://www.madrona.com/foundation-models/?utm_source=Foundation+Model+Share+Link&utm_medium=Social&utm_campaign=Foundation+model+update+Jan+2023
 [https://www.madrona.com/foundation-models/?utm_source=Foundation+Model+Share+Link&amp;utm_medium=Social&amp;utm_campaign=Foundation+model+update+Jan+2023](https://www.madrona.com/foundation-models/?utm_source=Foundation+Model+Share+Link&amp;utm_medium=Social&amp;utm_campaign=Foundation+model+update+Jan+2023)  
