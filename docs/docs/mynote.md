@@ -1,3 +1,11 @@
+Text-To-4D Dynamic Scene Generation
+
+[https://make-a-video3d.github.io/](https://make-a-video3d.github.io/)  
+
+
+---
+
+
 What are Transformers? Concept and Applications Explained - MarkTechPost
 
 [https://www.marktechpost.com/2023/01/24/what-are-transformers-concept-and-applications-explained/](https://www.marktechpost.com/2023/01/24/what-are-transformers-concept-and-applications-explained/)  
