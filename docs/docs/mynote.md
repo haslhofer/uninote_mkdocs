@@ -1,3 +1,11 @@
+
+
+[https://link.medium.com/Iei0OAG10wb](https://link.medium.com/Iei0OAG10wb)  
+
+
+---
+
+
 [2003.08934] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 
 [https://arxiv.org/abs/2003.08934](https://arxiv.org/abs/2003.08934)  
