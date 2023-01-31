@@ -1,4 +1,12 @@
 
+https://www.linkedin.com/posts/karenxcheng_using-nerf-for-creative-filmmaking-shots-ugcPost-7025885182251438080-1snf?utm_source=share&utm_medium=member_android
+[https://www.linkedin.com/posts/karenxcheng_using-nerf-for-creative-filmmaking-shots-ugcPost-7025885182251438080-1snf?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/karenxcheng_using-nerf-for-creative-filmmaking-shots-ugcPost-7025885182251438080-1snf?utm_source=share&amp;utm_medium=member_android)  
+
+
+---
+
+
+
 
 [https://github.com/huggingface/diffusion-models-class/tree/main/unit4](https://github.com/huggingface/diffusion-models-class/tree/main/unit4)  
 
