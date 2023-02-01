@@ -1,3 +1,11 @@
+GPT model overview
+The ChatGPT Models Family - by Damien Benveniste (theaiedge.io)<https://newsletter.theaiedge.io/p/the-chatgpt-models-family?utm_source=substack&utm_medium=email>
+[https://newsletter.theaiedge.io/p/the-chatgpt-models-family?utm_source=substack&amp;utm_medium=email](https://newsletter.theaiedge.io/p/the-chatgpt-models-family?utm_source=substack&amp;utm_medium=email)  
+
+
+---
+
+
 Summarization
 
 [https://github.com/helliun/targetedSummarization](https://github.com/helliun/targetedSummarization)  
