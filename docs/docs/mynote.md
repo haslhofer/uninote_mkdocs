@@ -1,3 +1,11 @@
+Buster
+
+[https://huggingface.co/spaces/jerpint/buster](https://huggingface.co/spaces/jerpint/buster)  
+
+
+---
+
+
 Stanford Researcher develops a simple prompting strategy that enables open-source LLMs with 30x fewer parameters to exceed the few-shot performance of GPT3-175B - MarkTechPost
 
 [https://www.marktechpost.com/2023/02/01/researchers-at-stanford-university-introduce-the-ask-me-anything-prompting-ama-a-simple-approach-that-surprisingly-enables-open-source-llms-with-30x-fewer-parameters-to-exceed-the-few-shot-perf/](https://www.marktechpost.com/2023/02/01/researchers-at-stanford-university-introduce-the-ask-me-anything-prompting-ama-a-simple-approach-that-surprisingly-enables-open-source-llms-with-30x-fewer-parameters-to-exceed-the-few-shot-perf/)  
