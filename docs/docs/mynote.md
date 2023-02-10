@@ -1,3 +1,11 @@
+Multi modal on huggingface
+https://www.linkedin.com/posts/niels-rogge-a3b7a3127_chatgpt-flamingo-ai-activity-7029788888449609729-lXVt?utm_source=share&utm_medium=member_android
+[https://www.linkedin.com/posts/niels-rogge-a3b7a3127_chatgpt-flamingo-ai-activity-7029788888449609729-lXVt?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/niels-rogge-a3b7a3127_chatgpt-flamingo-ai-activity-7029788888449609729-lXVt?utm_source=share&amp;utm_medium=member_android)  
+
+
+---
+
+
 
 
 [https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286](https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286)  
