@@ -1,5 +1,20 @@
 
 
+[https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286](https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286)  
+
+
+---
+
+
+
+[https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286](https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286)  
+
+
+---
+
+
+
+
 [https://www.philschmid.de/deploy-flan-t5-sagemaker](https://www.philschmid.de/deploy-flan-t5-sagemaker)  
 
 
