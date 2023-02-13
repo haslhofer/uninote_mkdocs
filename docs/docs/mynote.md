@@ -1,3 +1,11 @@
+Toolformer
+[2302.04761] Toolformer: Language Models Can Teach Themselves to Use Tools (arxiv.org)<>
+[https://arxiv.org/abs/2302.04761](https://arxiv.org/abs/2302.04761)  
+
+
+---
+
+
 Multi modal on huggingface
 https://www.linkedin.com/posts/niels-rogge-a3b7a3127_chatgpt-flamingo-ai-activity-7029788888449609729-lXVt?utm_source=share&utm_medium=member_android
 [https://www.linkedin.com/posts/niels-rogge-a3b7a3127_chatgpt-flamingo-ai-activity-7029788888449609729-lXVt?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/niels-rogge-a3b7a3127_chatgpt-flamingo-ai-activity-7029788888449609729-lXVt?utm_source=share&amp;utm_medium=member_android)  
