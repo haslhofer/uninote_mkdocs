@@ -1,3 +1,11 @@
+
+https://www.linkedin.com/posts/metaai_token-merging-your-vit-but-faster-meta-activity-7030988781688160258--WpO?utm_source=share&utm_medium=member_android
+[https://www.linkedin.com/posts/metaai_token-merging-your-vit-but-faster-meta-activity-7030988781688160258--WpO?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/metaai_token-merging-your-vit-but-faster-meta-activity-7030988781688160258--WpO?utm_source=share&amp;utm_medium=member_android)  
+
+
+---
+
+
 Toolformer
 [2302.04761] Toolformer: Language Models Can Teach Themselves to Use Tools (arxiv.org)<>
 [https://arxiv.org/abs/2302.04761](https://arxiv.org/abs/2302.04761)  
