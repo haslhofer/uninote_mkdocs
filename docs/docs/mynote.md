@@ -1,3 +1,11 @@
+Chatgpt
+ChatGPT Is a Blurry JPEG of the Web | The New Yorker<>
+[https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)  
+
+
+---
+
+
 
 https://www.linkedin.com/posts/metaai_token-merging-your-vit-but-faster-meta-activity-7030988781688160258--WpO?utm_source=share&utm_medium=member_android
 [https://www.linkedin.com/posts/metaai_token-merging-your-vit-but-faster-meta-activity-7030988781688160258--WpO?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/metaai_token-merging-your-vit-but-faster-meta-activity-7030988781688160258--WpO?utm_source=share&amp;utm_medium=member_android)  
