@@ -1,3 +1,11 @@
+ZeroMQ
+ZeroMQ # 1: Hello World | Sacha's Blog (wordpress.com)<>
+[https://sachabarbs.wordpress.com/2014/08/19/zeromq-1-introduction/](https://sachabarbs.wordpress.com/2014/08/19/zeromq-1-introduction/)  
+
+
+---
+
+
 
 
 [https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)  
