@@ -1,3 +1,11 @@
+
+
+[https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)  
+
+
+---
+
+
 Chatgpt
 ChatGPT Is a Blurry JPEG of the Web | The New Yorker<>
 [https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)  
