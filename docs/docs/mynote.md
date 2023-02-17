@@ -1,3 +1,11 @@
+Generative animations
+
+[https://masterpiecestudio.com/blog/announcing-generative-animations](https://masterpiecestudio.com/blog/announcing-generative-animations)  
+
+
+---
+
+
 Transformer catalog
 
 [https://arxiv.org/abs/2302.07730](https://arxiv.org/abs/2302.07730)  
