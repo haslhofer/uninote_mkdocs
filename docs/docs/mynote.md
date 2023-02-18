@@ -1,3 +1,11 @@
+
+
+[https://www.linkedin.com/feed/update/urn:li:ugcPost:7032636372460941312?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7032636372460941312%2C7032636645417828352%29](https://www.linkedin.com/feed/update/urn:li:ugcPost:7032636372460941312?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7032636372460941312%2C7032636645417828352%29)  
+
+
+---
+
+
 Open source solution replicates ChatGPT training process! Ready to go with only 1.6GB GPU memory and gives you 7.73 times faster training!
 
 [https://www.hpc-ai.tech/blog/colossal-ai-chatgpt](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)  
