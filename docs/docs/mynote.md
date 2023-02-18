@@ -1,3 +1,11 @@
+Open source solution replicates ChatGPT training process! Ready to go with only 1.6GB GPU memory and gives you 7.73 times faster training!
+
+[https://www.hpc-ai.tech/blog/colossal-ai-chatgpt](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)  
+
+
+---
+
+
 Generative animations
 
 [https://masterpiecestudio.com/blog/announcing-generative-animations](https://masterpiecestudio.com/blog/announcing-generative-animations)  
