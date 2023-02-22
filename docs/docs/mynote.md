@@ -1,3 +1,11 @@
+Deep sped T5
+Combine Amazon SageMaker and DeepSpeed to fine-tune FLAN-T5 XXL (philschmid.de)<>
+[https://www.philschmid.de/sagemaker-deepspeed](https://www.philschmid.de/sagemaker-deepspeed)  
+
+
+---
+
+
 
 
 [https://www.linkedin.com/feed/update/urn:li:ugcPost:7032636372460941312?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7032636372460941312%2C7032636645417828352%29](https://www.linkedin.com/feed/update/urn:li:ugcPost:7032636372460941312?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7032636372460941312%2C7032636645417828352%29)  
