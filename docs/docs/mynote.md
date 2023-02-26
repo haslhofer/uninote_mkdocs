@@ -1,3 +1,11 @@
+Python setup
+
+[https://link.medium.com/dZ8iWFG7Jxb](https://link.medium.com/dZ8iWFG7Jxb)  
+
+
+---
+
+
 [On-going] Introduction to hands-on Data Science in Python
 
 [https://newsletter.theaiedge.io/p/introduction-to-hands-on-data-science?utm_medium=email](https://newsletter.theaiedge.io/p/introduction-to-hands-on-data-science?utm_medium=email)  
