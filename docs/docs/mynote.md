@@ -1,3 +1,18 @@
+[On-going] Introduction to hands-on Data Science in Python
+
+[https://newsletter.theaiedge.io/p/introduction-to-hands-on-data-science?utm_medium=email](https://newsletter.theaiedge.io/p/introduction-to-hands-on-data-science?utm_medium=email)  
+
+
+---
+
+
+https://www.linkedin.com/posts/iamarifalam_harvarduniversity-writing-coding-activity-7035581774940246016-4kBg?utm_source=share&utm_medium=member_android
+[https://www.linkedin.com/posts/iamarifalam_harvarduniversity-writing-coding-activity-7035581774940246016-4kBg?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/iamarifalam_harvarduniversity-writing-coding-activity-7035581774940246016-4kBg?utm_source=share&amp;utm_medium=member_android)  
+
+
+---
+
+
 ChatGPT training
 
 [https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT)  
