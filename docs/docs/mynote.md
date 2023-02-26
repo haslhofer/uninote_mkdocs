@@ -1,3 +1,11 @@
+ChatGPT training
+
+[https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT)  
+
+
+---
+
+
 html2text · PyPI
 
 [https://pypi.org/project/html2text/2020.1.16/](https://pypi.org/project/html2text/2020.1.16/)  
