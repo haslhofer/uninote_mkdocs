@@ -1,3 +1,11 @@
+
+A vision-language approach for foundational UI understanding - Google AI Blog (googleblog.com)<>
+[https://ai.googleblog.com/2023/02/a-vision-language-approach-for.html](https://ai.googleblog.com/2023/02/a-vision-language-approach-for.html)  
+
+
+---
+
+
 Python setup
 
 [https://link.medium.com/dZ8iWFG7Jxb](https://link.medium.com/dZ8iWFG7Jxb)  
