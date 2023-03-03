@@ -1,4 +1,23 @@
 
+Chatllma 
+
+Get Outlook for Android<>
+[https://github.com/nebuly-ai/nebullvm/tree/main/apps%2Faccelerate%2Fchatllama](https://github.com/nebuly-ai/nebullvm/tree/main/apps%2Faccelerate%2Fchatllama)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Meet ChatLLaMA: The First Open-Source Implementation of LLaMA Based on Reinforcement Learning from Human Feedback (RLHF) - MarkTechPost
+Get Outlook for Android<>
+[https://www.marktechpost.com/2023/02/27/meet-chatllama-the-first-open-source-implementation-of-llama-based-on-reinforcement-learning-from-human-feedback-rlhf/](https://www.marktechpost.com/2023/02/27/meet-chatllama-the-first-open-source-implementation-of-llama-based-on-reinforcement-learning-from-human-feedback-rlhf/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+
 A vision-language approach for foundational UI understanding - Google AI Blog (googleblog.com)<>
 [https://ai.googleblog.com/2023/02/a-vision-language-approach-for.html](https://ai.googleblog.com/2023/02/a-vision-language-approach-for.html)  
 
