@@ -1,3 +1,12 @@
+Stable diffusion c#
+Get Outlook for Android<>
+[https://github.com/cassiebreviu/StableDiffusion](https://github.com/cassiebreviu/StableDiffusion)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 With Just ~20 Lines of Python Code, You can Do 'Retrieval Augmented GPT Based QA' Using This Open Source Repository Called PrimeQA - MarkTechPost
 Get Outlook for Android<>
 [https://www.marktechpost.com/2023/03/03/with-just-20-lines-of-python-code-you-can-do-retrieval-augmented-gpt-based-qa-using-this-open-source-repository-called-primeqa/](https://www.marktechpost.com/2023/03/03/with-just-20-lines-of-python-code-you-can-do-retrieval-augmented-gpt-based-qa-using-this-open-source-repository-called-primeqa/)  
