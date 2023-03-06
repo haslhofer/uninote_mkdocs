@@ -1,3 +1,14 @@
+
+https://www.linkedin.com/posts/skalskip-profile_how-to-train-object-detection-transformer-activity-7037364110438600704-QYK8?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/posts/skalskip-profile_how-to-train-object-detection-transformer-activity-7037364110438600704-QYK8?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/skalskip-profile_how-to-train-object-detection-transformer-activity-7037364110438600704-QYK8?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 Stable diffusion c#
 Get Outlook for Android<>
 [https://github.com/cassiebreviu/StableDiffusion](https://github.com/cassiebreviu/StableDiffusion)  
