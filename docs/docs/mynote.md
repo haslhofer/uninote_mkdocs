@@ -1,4 +1,28 @@
 
+Get Outlook for Android<>
+[https://github.com/huggingface/community-events/blob/main/keras-dreambooth-sprint/README.md](https://github.com/huggingface/community-events/blob/main/keras-dreambooth-sprint/README.md)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+Get Outlook for Android<>
+[https://learnopencv.com/denoising-diffusion-probabilistic-models/](https://learnopencv.com/denoising-diffusion-probabilistic-models/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Karpathy write your own ChatGPT
+
+[https://youtu.be/kCc8FmEb1nY](https://youtu.be/kCc8FmEb1nY)  
+
+
+---
+
+
+
 https://www.linkedin.com/posts/skalskip-profile_how-to-train-object-detection-transformer-activity-7037364110438600704-QYK8?utm_source=share&utm_medium=member_android
 
 Get Outlook for Android<>
