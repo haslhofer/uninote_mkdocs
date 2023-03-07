@@ -1,3 +1,11 @@
+human in the loop
+https://open.substack.com/pub/sebastianraschka/p/ahead-of-ai-6-train-differently?r=6h2ps&utm_campaign=post&utm_medium=email
+[https://open.substack.com/pub/sebastianraschka/p/ahead-of-ai-6-train-differently?r=6h2ps&amp;utm_campaign=post&amp;utm_medium=email](https://open.substack.com/pub/sebastianraschka/p/ahead-of-ai-6-train-differently?r=6h2ps&amp;utm_campaign=post&amp;utm_medium=email)  
+
+
+---
+
+
 
 Get Outlook for Android<>
 [https://huggingface.co/blog/controlnet](https://huggingface.co/blog/controlnet)  
