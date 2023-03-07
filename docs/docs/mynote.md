@@ -1,3 +1,19 @@
+An In-Depth Guide to Denoising Diffusion Probabilistic Models – From Theory to Implementation
+Get Outlook for Android<>
+[https://learnopencv.com/denoising-diffusion-probabilistic-models/](https://learnopencv.com/denoising-diffusion-probabilistic-models/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Florence
+Microsoft's computer vision model will generate alt text for Reddit images | TechCrunch<>
+[https://techcrunch.com/2023/03/07/microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images/](https://techcrunch.com/2023/03/07/microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images/)  
+
+
+---
+
+
 human in the loop
 https://open.substack.com/pub/sebastianraschka/p/ahead-of-ai-6-train-differently?r=6h2ps&utm_campaign=post&utm_medium=email
 [https://open.substack.com/pub/sebastianraschka/p/ahead-of-ai-6-train-differently?r=6h2ps&amp;utm_campaign=post&amp;utm_medium=email](https://open.substack.com/pub/sebastianraschka/p/ahead-of-ai-6-train-differently?r=6h2ps&amp;utm_campaign=post&amp;utm_medium=email)  
