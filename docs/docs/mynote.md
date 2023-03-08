@@ -1,3 +1,11 @@
+Action and arguments
+Actions beat arguments (hey.com)<>
+[https://world.hey.com/dhh/actions-beat-arguments-2aa1da34](https://world.hey.com/dhh/actions-beat-arguments-2aa1da34)  
+
+
+---
+
+
 Atomic commits
 Get Outlook for Android<>
 [https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-my-productivity-and-will-increase-yours-too-4a84](https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-my-productivity-and-will-increase-yours-too-4a84)  
