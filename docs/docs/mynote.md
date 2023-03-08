@@ -1,3 +1,12 @@
+Atomic commits
+Get Outlook for Android<>
+[https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-my-productivity-and-will-increase-yours-too-4a84](https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-my-productivity-and-will-increase-yours-too-4a84)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 An In-Depth Guide to Denoising Diffusion Probabilistic Models – From Theory to Implementation
 Get Outlook for Android<>
 [https://learnopencv.com/denoising-diffusion-probabilistic-models/](https://learnopencv.com/denoising-diffusion-probabilistic-models/)  
