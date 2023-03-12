@@ -1,3 +1,12 @@
+Announcing OpenChatKit — TOGETHER
+Get Outlook for Android<>
+[https://www.together.xyz/blog/openchatkit](https://www.together.xyz/blog/openchatkit)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 
 Get Outlook for Android<>
 [https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B)  
