@@ -1,3 +1,11 @@
+Check this out – Multivariate Probabilistic Time Series Forecasting with Informer
+Multivariate Probabilistic Time Series Forecasting with Informer
+https://huggingface.co/blog/informer
+
+
+---
+
+
 Announcing OpenChatKit — TOGETHER
 Get Outlook for Android<>
 [https://www.together.xyz/blog/openchatkit](https://www.together.xyz/blog/openchatkit)  
