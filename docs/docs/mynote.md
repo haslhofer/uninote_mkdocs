@@ -1,3 +1,22 @@
+Self-instruct
+[2212.10560] Self-Instruct: Aligning Language Model with Self Generated Instructions (arxiv.org)<>
+[https://arxiv.org/abs/2212.10560](https://arxiv.org/abs/2212.10560)  
+
+
+---
+
+Chat GPT like models
+Announcing OpenChatKit - TOGETHER<>
+Open Assistant (open-assistant.io)<>
+CarperAI, an EleutherAI lab, announces plans for the first open-source "instruction-tuned" language model. | CarperAI<>
+[https://www.together.xyz/blog/openchatkit](https://www.together.xyz/blog/openchatkit)  
+[https://open-assistant.io/](https://open-assistant.io/)  
+[https://carper.ai/instruct-gpt-announcement/](https://carper.ai/instruct-gpt-announcement/)  
+
+
+---
+
+
 [2302.14045] Language Is Not All You Need: Aligning Perception with Language Models
 Get Outlook for Android<>
 [https://arxiv.org/abs/2302.14045](https://arxiv.org/abs/2302.14045)  
