@@ -1,3 +1,11 @@
+GPT4
+gpt-4-system-card.pdf (openai.com)<>
+[https://cdn.openai.com/papers/gpt-4-system-card.pdf](https://cdn.openai.com/papers/gpt-4-system-card.pdf)  
+
+
+---
+
+
 Self-instruct
 [2212.10560] Self-Instruct: Aligning Language Model with Self Generated Instructions (arxiv.org)<>
 [https://arxiv.org/abs/2212.10560](https://arxiv.org/abs/2212.10560)  
