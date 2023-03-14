@@ -1,3 +1,12 @@
+[2302.14045] Language Is Not All You Need: Aligning Perception with Language Models
+Get Outlook for Android<>
+[https://arxiv.org/abs/2302.14045](https://arxiv.org/abs/2302.14045)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 Check this out – Multivariate Probabilistic Time Series Forecasting with Informer
 Multivariate Probabilistic Time Series Forecasting with Informer
 https://huggingface.co/blog/informer
