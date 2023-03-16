@@ -1,3 +1,12 @@
+MosaicBERT: Pretraining BERT from Scratch for $20
+Get Outlook for Android<>
+[https://www.mosaicml.com/blog/mosaicbert](https://www.mosaicml.com/blog/mosaicbert)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 GPT4
 gpt-4-system-card.pdf (openai.com)<>
 [https://cdn.openai.com/papers/gpt-4-system-card.pdf](https://cdn.openai.com/papers/gpt-4-system-card.pdf)  
