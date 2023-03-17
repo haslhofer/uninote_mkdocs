@@ -1,3 +1,28 @@
+Vector DB Question/Answering — 🦜🔗 LangChain 0.0.115
+Get Outlook for Android<>
+[https://langchain.readthedocs.io/en/latest/modules/indexes/chain_examples/vector_db_qa.html](https://langchain.readthedocs.io/en/latest/modules/indexes/chain_examples/vector_db_qa.html)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Pretrained Models — Sentence-Transformers documentation
+Get Outlook for Android<>
+[https://www.sbert.netdocs/pretrained_models.html#model-overview](https://www.sbert.netdocs/pretrained_models.html#model-overview)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Chroma db
+Get Outlook for Android<>
+[https://github.com/chroma-core/chroma](https://github.com/chroma-core/chroma)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition
 Get Outlook for Android<>
 [https://moygcc.github.io/vid2avatar/](https://moygcc.github.io/vid2avatar/)  
