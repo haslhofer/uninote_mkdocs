@@ -1,3 +1,12 @@
+Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition
+Get Outlook for Android<>
+[https://moygcc.github.io/vid2avatar/](https://moygcc.github.io/vid2avatar/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 
 Get Outlook for Android<>
 [https://github.com/mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)  
