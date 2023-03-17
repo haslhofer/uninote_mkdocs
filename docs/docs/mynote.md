@@ -1,3 +1,20 @@
+
+Get Outlook for Android<>
+[https://github.com/mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+Get Outlook for Android<>
+[https://github.com/microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 Guide
 
 [https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5](https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5)  
