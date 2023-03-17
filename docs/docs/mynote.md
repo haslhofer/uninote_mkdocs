@@ -1,3 +1,18 @@
+Guide
+
+[https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5](https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5)  
+
+
+---
+
+Langchain
+Quickstart Guide — 🦜🔗 LangChain 0.0.113<>
+[https://langchain.readthedocs.io/en/latest/getting_started/getting_started.html](https://langchain.readthedocs.io/en/latest/getting_started/getting_started.html)  
+
+
+---
+
+
 
 https://www.linkedin.com/posts/benmeer_8-free-websites-to-accelerate-your-learning-ugcPost-7042109157256101888-ffcb?utm_source=share&utm_medium=member_android
 
