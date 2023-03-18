@@ -1,3 +1,14 @@
+
+https://www.linkedin.com/feed/update/urn:li:activity:7042896105734344704?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/feed/update/urn:li:activity:7042896105734344704?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/feed/update/urn:li:activity:7042896105734344704?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 ViperGPT: Visual Inference via Python Execution for Reasoning | Papers With Code
 Get Outlook for Android<>
 [https://paperswithcode.com/paper/vipergpt-visual-inference-via-python](https://paperswithcode.com/paper/vipergpt-visual-inference-via-python)  
