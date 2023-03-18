@@ -1,3 +1,20 @@
+ViperGPT: Visual Inference via Python Execution for Reasoning | Papers With Code
+Get Outlook for Android<>
+[https://paperswithcode.com/paper/vipergpt-visual-inference-via-python](https://paperswithcode.com/paper/vipergpt-visual-inference-via-python)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+nlpcloud/instruct-gpt-j-fp16 · Hugging Face
+Get Outlook for Android<>
+[https://huggingface.co/nlpcloud/instruct-gpt-j-fp16](https://huggingface.co/nlpcloud/instruct-gpt-j-fp16)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 Vector DB Question/Answering — 🦜🔗 LangChain 0.0.115
 Get Outlook for Android<>
 [https://langchain.readthedocs.io/en/latest/modules/indexes/chain_examples/vector_db_qa.html](https://langchain.readthedocs.io/en/latest/modules/indexes/chain_examples/vector_db_qa.html)  
