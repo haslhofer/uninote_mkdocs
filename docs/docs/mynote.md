@@ -1,5 +1,14 @@
 
 Get Outlook for Android<>
+[https://blogs.oracle.com/research/post/oracle-first-to-finetune-gpt3-sized-ai-models-with-nvidia-a100-gpu](https://blogs.oracle.com/research/post/oracle-first-to-finetune-gpt3-sized-ai-models-with-nvidia-a100-gpu)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+
+Get Outlook for Android<>
 [https://github.com/modelscope/modelscope](https://github.com/modelscope/modelscope)  
 [https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
 
