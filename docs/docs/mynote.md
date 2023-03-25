@@ -1,3 +1,19 @@
+
+Get Outlook for Android<>
+[https://huggingface.co/damo-vilab/text-to-video-ms-1.7b](https://huggingface.co/damo-vilab/text-to-video-ms-1.7b)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Train your ControlNet with diffusers
+
+[https://huggingface.co/blog/train-your-controlnet](https://huggingface.co/blog/train-your-controlnet)  
+
+
+---
+
+
 Hello Dolly: Democratizing the magic of ChatGPT with open models
 Get Outlook for Android<>
 [https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)  
