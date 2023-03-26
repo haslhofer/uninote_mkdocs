@@ -1,3 +1,14 @@
+
+https://www.linkedin.com/posts/areddy_sam-altman-openai-ceo-on-gpt-4-chatgpt-activity-7045515114199810049-hYBO?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/posts/areddy_sam-altman-openai-ceo-on-gpt-4-chatgpt-activity-7045515114199810049-hYBO?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/areddy_sam-altman-openai-ceo-on-gpt-4-chatgpt-activity-7045515114199810049-hYBO?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 Ai tools
 https://www.linkedin.com/posts/chatgpt-generative-ai_this-week-alone-more-than-200-new-ai-tools-activity-7045374653816610816-xBij?utm_source=share&utm_medium=member_desktop
 [https://www.linkedin.com/posts/chatgpt-generative-ai_this-week-alone-more-than-200-new-ai-tools-activity-7045374653816610816-xBij?utm_source=share&amp;utm_medium=member_desktop](https://www.linkedin.com/posts/chatgpt-generative-ai_this-week-alone-more-than-200-new-ai-tools-activity-7045374653816610816-xBij?utm_source=share&amp;utm_medium=member_desktop)  
