@@ -1,4 +1,15 @@
 
+https://www.linkedin.com/posts/chatgpt-generative-ai_chatgpt-for-blender-zero-shot-blender-code-activity-7045605285461176320-0Xl7?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/posts/chatgpt-generative-ai_chatgpt-for-blender-zero-shot-blender-code-activity-7045605285461176320-0Xl7?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/chatgpt-generative-ai_chatgpt-for-blender-zero-shot-blender-code-activity-7045605285461176320-0Xl7?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+
 Get Outlook for Android<>
 [https://github.com/openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)  
 [https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
