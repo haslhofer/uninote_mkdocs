@@ -1,3 +1,12 @@
+Pix2struct
+Get Outlook for Android<>
+[https://huggingface.co/models?other=pix2struct](https://huggingface.co/models?other=pix2struct)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 
 https://www.linkedin.com/posts/riti2409_systemdesign-github-interviewpreparation-activity-7045739460189196288-FLuy?utm_source=share&utm_medium=member_android
 
