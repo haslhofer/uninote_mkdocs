@@ -1,3 +1,12 @@
+
+Get Outlook for Android<>
+[https://huggingface.co/models?other=pix2struct](https://huggingface.co/models?other=pix2struct)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 Pix2struct
 Get Outlook for Android<>
 [https://huggingface.co/models?other=pix2struct](https://huggingface.co/models?other=pix2struct)  
