@@ -1,3 +1,12 @@
+I Conducted Experiments With the Alpaca/LLaMA 7B Language Model: Here Are the Results | HackerNoon
+Get Outlook for Android<>
+[https://hackernoon.com/i-conducted-experiments-with-the-alpacallama-7b-language-model-here-are-the-results](https://hackernoon.com/i-conducted-experiments-with-the-alpacallama-7b-language-model-here-are-the-results)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 
 https://www.linkedin.com/posts/ebarsoum_cerebras-cerebras-activity-7046571544940064768-amSS?utm_source=share&utm_medium=member_android
 
