@@ -1,3 +1,11 @@
+Local chatgpt
+
+[https://link.medium.com/XvlwwXhTAyb](https://link.medium.com/XvlwwXhTAyb)  
+
+
+---
+
+
 
 Get Outlook for Android<>
 [https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1](https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1)  
