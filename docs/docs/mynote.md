@@ -1,3 +1,14 @@
+
+https://www.linkedin.com/posts/julienchaumond_super-excited-to-announce-this-partnership-activity-7047181961877942272-Vpl5?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/posts/julienchaumond_super-excited-to-announce-this-partnership-activity-7047181961877942272-Vpl5?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/julienchaumond_super-excited-to-announce-this-partnership-activity-7047181961877942272-Vpl5?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 Local chatgpt
 
 [https://link.medium.com/XvlwwXhTAyb](https://link.medium.com/XvlwwXhTAyb)  
