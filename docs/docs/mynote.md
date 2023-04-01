@@ -1,3 +1,19 @@
+Cerebras
+Alternatives to OpenAI GPT model: using an open-source Cerebras model with LangChain | Bartosz Mikulski (mikulskibartosz.name)<>
+[https://www.mikulskibartosz.name/alternatives-to-open-ai-gpt-using-open-source-models-with-langchain/](https://www.mikulskibartosz.name/alternatives-to-open-ai-gpt-using-open-source-models-with-langchain/)  
+
+
+---
+
+LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention | Papers With Code
+Get Outlook for Android<>
+[https://paperswithcode.com/paper/llama-adapter-efficient-fine-tuning-of](https://paperswithcode.com/paper/llama-adapter-efficient-fine-tuning-of)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 Got own
 Get Outlook for Android<>
 [https://link.medium.com/CiOze7suDyb](https://link.medium.com/CiOze7suDyb)  
