@@ -1,3 +1,24 @@
+Moat
+https://www.linkedin.com/posts/alexander-ratner-038ba239_tatsunori-hashimoto-on-twitter-activity-7048435669366427648-KPTv?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/posts/alexander-ratner-038ba239_tatsunori-hashimoto-on-twitter-activity-7048435669366427648-KPTv?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/alexander-ratner-038ba239_tatsunori-hashimoto-on-twitter-activity-7048435669366427648-KPTv?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Model colab
+https://www.linkedin.com/posts/orlevi_ai-llms-chatgpt-activity-7048344013367652353-qsXR?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/posts/orlevi_ai-llms-chatgpt-activity-7048344013367652353-qsXR?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/orlevi_ai-llms-chatgpt-activity-7048344013367652353-qsXR?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 Cerebras
 Alternatives to OpenAI GPT model: using an open-source Cerebras model with LangChain | Bartosz Mikulski (mikulskibartosz.name)<>
 [https://www.mikulskibartosz.name/alternatives-to-open-ai-gpt-using-open-source-models-with-langchain/](https://www.mikulskibartosz.name/alternatives-to-open-ai-gpt-using-open-source-models-with-langchain/)  
