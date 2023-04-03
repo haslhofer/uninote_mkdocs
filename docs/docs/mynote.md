@@ -1,3 +1,12 @@
+Shared from Bing: https://medium.com/microsoft-design/behind-the-design-meet-copilot-2c68182a0e70
+Get Outlook for Android<>
+[https://medium.com/microsoft-design/behind-the-design-meet-copilot-2c68182a0e70](https://medium.com/microsoft-design/behind-the-design-meet-copilot-2c68182a0e70)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 Moat
 https://www.linkedin.com/posts/alexander-ratner-038ba239_tatsunori-hashimoto-on-twitter-activity-7048435669366427648-KPTv?utm_source=share&utm_medium=member_android
 
