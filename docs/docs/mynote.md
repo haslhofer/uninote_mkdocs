@@ -1,3 +1,14 @@
+
+https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_introducing-igel-an-instruction-tuned-german-activity-7049044236955971584-N9Mx?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_introducing-igel-an-instruction-tuned-german-activity-7049044236955971584-N9Mx?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_introducing-igel-an-instruction-tuned-german-activity-7049044236955971584-N9Mx?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 langchain doc
 LangChain: Introduction and Getting Started | Pinecone<>
 [https://www.pinecone.io/learn/langchain-intro/](https://www.pinecone.io/learn/langchain-intro/)  
