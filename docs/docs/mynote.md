@@ -1,3 +1,11 @@
+langchain doc
+LangChain: Introduction and Getting Started | Pinecone<>
+[https://www.pinecone.io/learn/langchain-intro/](https://www.pinecone.io/learn/langchain-intro/)  
+
+
+---
+
+
 
 Get Outlook for Android<>
 [https://github.com/stochasticai/xturing](https://github.com/stochasticai/xturing)  
