@@ -1,3 +1,20 @@
+
+Get Outlook for Android<>
+[https://github.com/stochasticai/xturing](https://github.com/stochasticai/xturing)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+Get Outlook for Android<>
+[https://github.com/stochasticai/xturing/blob/main/examples/cerebras/cerebras_lora_int8.ipynb](https://github.com/stochasticai/xturing/blob/main/examples/cerebras/cerebras_lora_int8.ipynb)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 Shared from Bing: https://medium.com/microsoft-design/behind-the-design-meet-copilot-2c68182a0e70
 Get Outlook for Android<>
 [https://medium.com/microsoft-design/behind-the-design-meet-copilot-2c68182a0e70](https://medium.com/microsoft-design/behind-the-design-meet-copilot-2c68182a0e70)  
