@@ -1,4 +1,15 @@
 
+https://www.linkedin.com/posts/metaai_introducing-segment-anything-working-toward-activity-7049369344484519936-mrJN?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/posts/metaai_introducing-segment-anything-working-toward-activity-7049369344484519936-mrJN?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/metaai_introducing-segment-anything-working-toward-activity-7049369344484519936-mrJN?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+
 Get Outlook for Android<>
 [https://github.com/nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)  
 [https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
