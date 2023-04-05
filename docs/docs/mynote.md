@@ -1,4 +1,13 @@
 
+Get Outlook for Android<>
+[https://github.com/nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+
 https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_introducing-igel-an-instruction-tuned-german-activity-7049044236955971584-N9Mx?utm_source=share&utm_medium=member_android
 
 Get Outlook for Android<>
