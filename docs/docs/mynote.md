@@ -1,3 +1,12 @@
+HuggingGPT: Giving ChatGPT Models the Ability to Use External Tools | Metaverse Post
+Get Outlook for Android<>
+[https://mpost.io/hugginggpt-giving-chatgpt-models-the-ability-to-use-external-tools/](https://mpost.io/hugginggpt-giving-chatgpt-models-the-ability-to-use-external-tools/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 
 https://www.linkedin.com/posts/metaai_introducing-segment-anything-working-toward-activity-7049369344484519936-mrJN?utm_source=share&utm_medium=member_android
 
