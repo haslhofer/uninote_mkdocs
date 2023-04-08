@@ -1,4 +1,15 @@
 
+https://www.linkedin.com/posts/genai-center_using-the-donotpay-chatgpt-plugin-i-asked-activity-7050092580453187584-WAQF?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/posts/genai-center_using-the-donotpay-chatgpt-plugin-i-asked-activity-7050092580453187584-WAQF?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/genai-center_using-the-donotpay-chatgpt-plugin-i-asked-activity-7050092580453187584-WAQF?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+
 https://www.linkedin.com/feed/update/urn:li:activity:7049789761728770049?utm_source=share&utm_medium=member_android
 
 Get Outlook for Android<>
