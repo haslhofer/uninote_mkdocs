@@ -1,3 +1,20 @@
+Microsoft Researchers Introduce TaskMatrix.AI: A New AI Ecosystem that Connects Foundation Models with Millions of APIs for Task Completion - MarkTechPost
+Get Outlook for Android<>
+[https://www.marktechpost.com/2023/04/06/microsoft-researchers-introduce-taskmatrix-ai-a-new-ai-ecosystem-that-connects-foundation-models-with-millions-of-apis-for-task-completion/](https://www.marktechpost.com/2023/04/06/microsoft-researchers-introduce-taskmatrix-ai-a-new-ai-ecosystem-that-connects-foundation-models-with-millions-of-apis-for-task-completion/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Creating a Knowledge Graph From Video Transcripts With ChatGPT 4
+Get Outlook for Android<>
+[https://neo4j.com/developer-blog/chatgpt-4-knowledge-graph-from-video-transcripts/](https://neo4j.com/developer-blog/chatgpt-4-knowledge-graph-from-video-transcripts/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 
 https://www.linkedin.com/posts/genai-center_using-the-donotpay-chatgpt-plugin-i-asked-activity-7050092580453187584-WAQF?utm_source=share&utm_medium=member_android
 
