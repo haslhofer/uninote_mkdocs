@@ -1,3 +1,12 @@
+TheBloke/koala-13B-GPTQ-4bit-128g · Hugging Face
+Get Outlook for Android<>
+[https://huggingface.co/TheBloke/koala-13B-GPTQ-4bit-128g](https://huggingface.co/TheBloke/koala-13B-GPTQ-4bit-128g)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 
 Get Outlook for Android<>
 [https://github.com/lm-sys/FastChat](https://github.com/lm-sys/FastChat)  
