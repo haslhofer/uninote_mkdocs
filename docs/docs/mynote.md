@@ -1,3 +1,14 @@
+Vicuna is the Current Best Open Source AI Model for Local Computer Installation | NextBigFuture.com
+https://www.nextbigfuture.com/2023/04/vicuna-is-the-current-best-open-source-ai-model-for-local-computer-installation.html#amp_tf=From%20%251%24s&aoh=16811699260970&csi=0&referrer=https%3A%2F%2Fwww.google.com
+
+Get Outlook for Android<>
+[https://www.nextbigfuture.com/2023/04/vicuna-is-the-current-best-open-source-ai-model-for-local-computer-installation.html#amp_tf=From%20%251%24s&amp;aoh=16811699260970&amp;csi=0&amp;referrer=https%3A%2F%2Fwww.google.com](https://www.nextbigfuture.com/2023/04/vicuna-is-the-current-best-open-source-ai-model-for-local-computer-installation.html#amp_tf=From%20%251%24s&amp;aoh=16811699260970&amp;csi=0&amp;referrer=https%3A%2F%2Fwww.google.com)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 [2303.18223] A Survey of Large Language Models
 Get Outlook for Android<>
 [https://arxiv.org/abs/2303.18223](https://arxiv.org/abs/2303.18223)  
