@@ -1,3 +1,14 @@
+
+https://www.linkedin.com/posts/rami-krispin_machinelearning-deeplearning-datascience-activity-7050477779120766976-6PZa?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/posts/rami-krispin_machinelearning-deeplearning-datascience-activity-7050477779120766976-6PZa?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/rami-krispin_machinelearning-deeplearning-datascience-activity-7050477779120766976-6PZa?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 Watch "Generate 3D Sets for your Short Films!" on YouTube
 Get Outlook for Android<>
 [https://youtu.be/t-8I7EkIL8c](https://youtu.be/t-8I7EkIL8c)  
