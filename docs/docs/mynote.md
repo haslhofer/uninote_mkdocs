@@ -1,3 +1,12 @@
+Watch "Generate 3D Sets for your Short Films!" on YouTube
+Get Outlook for Android<>
+[https://youtu.be/t-8I7EkIL8c](https://youtu.be/t-8I7EkIL8c)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 Vicuna is the Current Best Open Source AI Model for Local Computer Installation | NextBigFuture.com
 https://www.nextbigfuture.com/2023/04/vicuna-is-the-current-best-open-source-ai-model-for-local-computer-installation.html#amp_tf=From%20%251%24s&aoh=16811699260970&csi=0&referrer=https%3A%2F%2Fwww.google.com
 
