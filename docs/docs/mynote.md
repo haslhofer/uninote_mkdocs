@@ -1,3 +1,12 @@
+Chatgpt coding
+Get Outlook for Android<>
+[https://youtu.be/p7JYu65lDyY](https://youtu.be/p7JYu65lDyY)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 
 https://www.linkedin.com/posts/rami-krispin_machinelearning-deeplearning-datascience-activity-7050477779120766976-6PZa?utm_source=share&utm_medium=member_android
 
