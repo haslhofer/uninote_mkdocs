@@ -1,3 +1,12 @@
+Meet LMQL: An Open Source Programming Language and Platform for Large Language Model (LLM) Interaction - MarkTechPost
+Get Outlook for Android<>
+[https://www.marktechpost.com/2023/04/11/meet-lmql-an-open-source-programming-language-and-platform-for-large-language-model-llm-interaction/](https://www.marktechpost.com/2023/04/11/meet-lmql-an-open-source-programming-language-and-platform-for-large-language-model-llm-interaction/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 Chatgpt coding
 Get Outlook for Android<>
 [https://youtu.be/p7JYu65lDyY](https://youtu.be/p7JYu65lDyY)  
