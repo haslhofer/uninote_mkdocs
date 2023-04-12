@@ -1,3 +1,22 @@
+
+https://www.linkedin.com/posts/chiphuyen_llms-promptengineering-mlops-activity-7051955337221844992-oG7a?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/posts/chiphuyen_llms-promptengineering-mlops-activity-7051955337221844992-oG7a?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/chiphuyen_llms-promptengineering-mlops-activity-7051955337221844992-oG7a?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Free Dolly: Introducing the World's First Open and Commercially Viable Instruction-Tuned LLM - The Databricks Blog
+Get Outlook for Android<>
+[https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 hugginggpt
 https://www.linkedin.com/posts/denis-rothman-0b034043_hugginggpt-a-beautiful-mind-blowing-innovation-ugcPost-7051834906556915712-sQLU?utm_source=share&utm_medium=member_desktop
 [https://www.linkedin.com/posts/denis-rothman-0b034043_hugginggpt-a-beautiful-mind-blowing-innovation-ugcPost-7051834906556915712-sQLU?utm_source=share&amp;utm_medium=member_desktop](https://www.linkedin.com/posts/denis-rothman-0b034043_hugginggpt-a-beautiful-mind-blowing-innovation-ugcPost-7051834906556915712-sQLU?utm_source=share&amp;utm_medium=member_desktop)  
