@@ -1,3 +1,12 @@
+How To Be Successful: Chat GPT Founder Sam Altman’s 13 Powerful Rules For Business
+Get Outlook for Android<>
+[https://www.forbes.com/sites/jodiecook/2023/04/12/how-to-be-successful-chat-gpt-founder-sam-altmans-13-powerful-rules-for-business/](https://www.forbes.com/sites/jodiecook/2023/04/12/how-to-be-successful-chat-gpt-founder-sam-altmans-13-powerful-rules-for-business/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 A List of 1 Billion+ Parameter LLMs
 Get Outlook for Android<>
 [https://matt-rickard.com/a-list-of-1-billion-parameter-llms](https://matt-rickard.com/a-list-of-1-billion-parameter-llms)  
