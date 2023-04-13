@@ -1,3 +1,12 @@
+A List of 1 Billion+ Parameter LLMs
+Get Outlook for Android<>
+[https://matt-rickard.com/a-list-of-1-billion-parameter-llms](https://matt-rickard.com/a-list-of-1-billion-parameter-llms)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 
 Get Outlook for Android<>
 [https://scl.ai/401MQ7x](https://scl.ai/401MQ7x)  
