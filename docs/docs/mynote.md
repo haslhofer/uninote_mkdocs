@@ -1,3 +1,12 @@
+
+Get Outlook for Android<>
+[https://github.com/Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 Chat
 Get Outlook for Android<>
 [https://open-assistant.io/chat/06444378-b3f1-7afd-8000-f6b8f6e523a9](https://open-assistant.io/chat/06444378-b3f1-7afd-8000-f6b8f6e523a9)  
