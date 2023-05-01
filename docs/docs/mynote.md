@@ -1,3 +1,81 @@
+open ai
+openai/chatgpt-retrieval-plugin: The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language. (github.com)<>
+[https://github.com/openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)  
+
+
+---
+
+New platform allows easier, cheaper, and safer interactions with large language models like ChatGPT
+Get Outlook for Android<>
+[https://techxplore.com/news/2023-04-platform-easier-cheaper-safer-interactions.html](https://techxplore.com/news/2023-04-platform-easier-cheaper-safer-interactions.html)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+LMQL: Programming Large Language Models
+Get Outlook for Android<>
+[https://lmql.ai/](https://lmql.ai/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+https://www.linkedin.com/posts/sahar-mor_artificialintelligence-machinelearning-multimodal-activity-7057399123154501632-5qZW?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/posts/sahar-mor_artificialintelligence-machinelearning-multimodal-activity-7057399123154501632-5qZW?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/sahar-mor_artificialintelligence-machinelearning-multimodal-activity-7057399123154501632-5qZW?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+https://www.linkedin.com/posts/activity-7057451653334999040-HA3D?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/posts/activity-7057451653334999040-HA3D?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/activity-7057451653334999040-HA3D?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Shared from Bing: https://github.com/lupantech/chameleon-llm
+Get Outlook for Android<>
+[https://github.com/lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+Get Outlook for Android<>
+[https://github.com/showlab/VLog](https://github.com/showlab/VLog)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Llm on phone
+https://www.linkedin.com/feed/update/urn:li:activity:7057921435599548416?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/feed/update/urn:li:activity:7057921435599548416?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/feed/update/urn:li:activity:7057921435599548416?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+[2304.08103] Low-code LLM: Visual Programming over LLMs
+Get Outlook for Android<>
+[https://arxiv.org/abs/2304.08103](https://arxiv.org/abs/2304.08103)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 
 Get Outlook for Android<>
 [https://github.com/Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)  
