@@ -1,3 +1,142 @@
+
+Get Outlook for Android<>
+[https://agi-sphere.com/llama-models/](https://agi-sphere.com/llama-models/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+[2304.11267] Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations
+Get Outlook for Android<>
+[https://arxiv.org/abs/2304.11267](https://arxiv.org/abs/2304.11267)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+The Ultimate Battle of Language Models: Lit-LLaMA vs GPT3.5 vs Bloom vs … - Lightning AI
+Get Outlook for Android<>
+[https://lightning.ai/pages/community/community-discussions/the-ultimate-battle-of-language-models-lit-llama-vs-gpt3.5-vs-bloom-vs/](https://lightning.ai/pages/community/community-discussions/the-ultimate-battle-of-language-models-lit-llama-vs-gpt3.5-vs-bloom-vs/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Leverage Embeddings and Clustering in Computer Vision
+Get Outlook for Android<>
+[https://blog.roboflow.com/embeddings-clustering-computer-vision-clip-umap/](https://blog.roboflow.com/embeddings-clustering-computer-vision-clip-umap/)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+Get Outlook for Android<>
+[https://www.philschmid.de/sagemaker-fsdp-gpt](https://www.philschmid.de/sagemaker-fsdp-gpt)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+Get Outlook for Android<>
+[https://www.philschmid.de/sagemaker-fsdp-gpt](https://www.philschmid.de/sagemaker-fsdp-gpt)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+togethercomputer/GPT-NeoXT-Chat-Base-20B · Hugging Face
+Get Outlook for Android<>
+[https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Shared from Bing: https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B?text=My+name+is+Clara+and+I+am
+Get Outlook for Android<>
+[https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B?text=My+name+is+Clara+and+I+am](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B?text=My+name+is+Clara+and+I+am)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Shared from Bing: https://github.com/ZrrSkywalker/LLaMA-Adapter?utm_source=marktechpost-newsletter.beehiiv.com&utm_medium=newsletter&utm_campaign=ai-news-can-llms-run-natively-on-your-iphone-do-you-really-need-a-studio-to-finetune-llms-nvidia-researche...
+https://github.com/ZrrSkywalker/LLaMA-Adapter?utm_source=marktechpost-newsletter.beehiiv.com&utm_medium=newsletter&utm_campaign=ai-news-can-llms-run-natively-on-your-iphone-do-you-really-need-a-studio-to-finetune-llms-nvidia-researchers-create-realistic-hair-for-3d-characters-in-real-time
+
+Get Outlook for Android<>
+[https://github.com/ZrrSkywalker/LLaMA-Adapter?utm_source=marktechpost-newsletter.beehiiv.com&amp;utm_medium=newsletter&amp;utm_campaign=ai-news-can-llms-run-natively-on-your-iphone-do-you-really-need-a-studio-to-finetune-llms-nvidia-researchers-create-realistic-hair-for-3d-characters-in-real-time](https://github.com/ZrrSkywalker/LLaMA-Adapter?utm_source=marktechpost-newsletter.beehiiv.com&amp;utm_medium=newsletter&amp;utm_campaign=ai-news-can-llms-run-natively-on-your-iphone-do-you-really-need-a-studio-to-finetune-llms-nvidia-researchers-create-realistic-hair-for-3d-characters-in-real-time)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Shared from Bing: https://github.com/ZrrSkywalker/LLaMA-Adapter/tree/main/llama_adapter_v2_chat65b
+Get Outlook for Android<>
+[https://github.com/ZrrSkywalker/LLaMA-Adapter/tree/main/llama_adapter_v2_chat65b](https://github.com/ZrrSkywalker/LLaMA-Adapter/tree/main/llama_adapter_v2_chat65b)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_bigcode-chatgpt-copilot-activity-7059941239277678592-hUmn?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_bigcode-chatgpt-copilot-activity-7059941239277678592-hUmn?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_bigcode-chatgpt-copilot-activity-7059941239277678592-hUmn?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+https://www.linkedin.com/feed/update/urn:li:activity:7059495634139021312?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/feed/update/urn:li:activity:7059495634139021312?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/feed/update/urn:li:activity:7059495634139021312?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_opensourcellms-mosaicml-together-activity-7060516903479324673-Zz4e?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_opensourcellms-mosaicml-together-activity-7060516903479324673-Zz4e?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_opensourcellms-mosaicml-together-activity-7060516903479324673-Zz4e?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Exciting
+Get Outlook for Android<>
+[https://www.mosaicml.com/blog/mpt-7b](https://www.mosaicml.com/blog/mpt-7b)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+Shared from Bing: https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table
+Get Outlook for Android<>
+[https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
+https://www.linkedin.com/posts/sanyambhutani_outperforming-llms-with-2000x-smaller-models-activity-7060977553104134144-1gRH?utm_source=share&utm_medium=member_android
+
+Get Outlook for Android<>
+[https://www.linkedin.com/posts/sanyambhutani_outperforming-llms-with-2000x-smaller-models-activity-7060977553104134144-1gRH?utm_source=share&amp;utm_medium=member_android](https://www.linkedin.com/posts/sanyambhutani_outperforming-llms-with-2000x-smaller-models-activity-7060977553104134144-1gRH?utm_source=share&amp;utm_medium=member_android)  
+[https://aka.ms/AAb9ysg](https://aka.ms/AAb9ysg)  
+
+
+---
+
+
 open ai
 openai/chatgpt-retrieval-plugin: The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language. (github.com)<>
 [https://github.com/openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)  
